@@ -39,41 +39,27 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center" width="100%">
+- 👤 **Name:** Mohammad Nahid Uddin Babor
+- 💼 **Role:** Frontend Developer → Aspiring Full-Stack Developer
+- 📍 **Location:** Bangladesh 🇧🇩
+- 📧 **Email:** mdsnbabor828@gmail.com
 
-```bash
-╔══════════════════════════════════════════════════════════╗
-║              babor@dev ~ $ whoami                        ║
-╚══════════════════════════════════════════════════════════╝
+<br/>
 
-   Name       :  Mohammad Nahid Uddin Babor
-   Role       :  Frontend Developer -> Aspiring Full-Stack Developer
-   Location   :  Bangladesh
-   Email      :  mdsnbabor828@gmail.com
+- 🔭 **Building:** JavaScript, TypeScript, React & Tailwind CSS
+- 🌱 **Learning:** Backend fundamentals (Node.js, Express.js, MongoDB)
+- 🎯 **Goal:** Land a Full-Stack Developer role & contribute to impactful projects
+- ✍️ **Philosophy:** Write clean, accessible & maintainable code
+- 🤝 **Open to:** Collaborations, Open Source & Freelance projects
 
-╔══════════════════════════════════════════════════════════╗
-║           babor@dev ~ $ cat status.log                   ║
-╚══════════════════════════════════════════════════════════╝
+<br/>
 
-   [*]  Building    ->  JavaScript, TypeScript, React & Tailwind CSS
-   [+]  Learning    ->  Backend fundamentals 
-   [>]  Goal        ->  Land a Full-Stack Developer role & contribute to impactful projects
-   [~]  Philosophy  ->  Write clean, accessible & maintainable code
-   [=]  Open to     ->  Collaborations, Open Source & Freelance projects
+### ❤️ Favorites
 
-╔══════════════════════════════════════════════════════════╗
-║          babor@dev ~ $ cat favorites.sh                  ║
-╚══════════════════════════════════════════════════════════╝
-
-   [1]  React.js    ->  Building interactive, high-performance web applications
-   [2]  Tailwind    ->  Crafting pixel-perfect, responsive UI/UX designs
-   [3]  Next.js     ->  Scalable, SEO-friendly full-stack architectures
-   [4]  MongoDB     ->  Flexible, document-based data modeling
-
-   babor@dev ~ $ _
-```
-
-</div>
+- ⚛️ **React.js** — Building interactive, high-performance web applications
+- 🎨 **Tailwind CSS** — Crafting pixel-perfect, responsive UI/UX designs
+- ⚡ **Next.js** — Scalable, SEO-friendly full-stack architectures
+- 🗄️ **MongoDB** — Flexible, document-based data modeling
 
 <hr />
 
