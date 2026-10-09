@@ -42,35 +42,35 @@
 <div align="center" width="100%">
 
 ```bash
-╔═════════════════════════════════════════════════════════════════════════════════════╗
-║                          babor@dev ~ $ whoami                                       ║
-╚═════════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║              babor@dev ~ $ whoami                        ║
+╚══════════════════════════════════════════════════════════╝
 
    Name       :  Mohammad Nahid Uddin Babor
-   Role       :  Frontend Developer  →  Aspiring Full-Stack Developer
-   Location   :  Bangladesh 🇧🇩
+   Role       :  Frontend Developer -> Aspiring Full-Stack Developer
+   Location   :  Bangladesh
    Email      :  mdsnbabor828@gmail.com
 
-╔═════════════════════════════════════════════════════════════════════════════════════╗
-║                        babor@dev ~ $ cat status.log                                 ║
-╚═════════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║           babor@dev ~ $ cat status.log                   ║
+╚══════════════════════════════════════════════════════════╝
 
-   🔭  Building    →  JavaScript, TypeScript, React & Tailwind CSS
-   🌱  Learning    →  Backend fundamentals (Node.js, Express.js, MongoDB)
-   🎯  Goal        →  Land a Full-Stack Developer role & contribute to impactful projects
-   ✍️  Philosophy  →  Write clean, accessible & maintainable code
-   🤝  Open to     →  Collaborations, Open Source & Freelance projects
+   [*]  Building    ->  JavaScript, TypeScript, React & Tailwind CSS
+   [+]  Learning    ->  Backend fundamentals 
+   [>]  Goal        ->  Land a Full-Stack Developer role & contribute to impactful projects
+   [~]  Philosophy  ->  Write clean, accessible & maintainable code
+   [=]  Open to     ->  Collaborations, Open Source & Freelance projects
 
-╔═════════════════════════════════════════════════════════════════════════════════════╗
-║                       babor@dev ~ $ cat favorites.sh                                ║
-╚═════════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║          babor@dev ~ $ cat favorites.sh                  ║
+╚══════════════════════════════════════════════════════════╝
 
-   💻  React.js    →  Building interactive, high-performance web applications
-   🎨  Tailwind    →  Crafting pixel-perfect, responsive UI/UX designs
-   ⚡  Next.js     →  Scalable, SEO-friendly full-stack architectures
-   🗄️  MongoDB     →  Flexible, document-based data modeling
+   [1]  React.js    ->  Building interactive, high-performance web applications
+   [2]  Tailwind    ->  Crafting pixel-perfect, responsive UI/UX designs
+   [3]  Next.js     ->  Scalable, SEO-friendly full-stack architectures
+   [4]  MongoDB     ->  Flexible, document-based data modeling
 
-   babor@dev ~ $ █
+   babor@dev ~ $ _
 ```
 
 </div>
